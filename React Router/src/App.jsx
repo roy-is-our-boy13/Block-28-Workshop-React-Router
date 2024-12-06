@@ -7,6 +7,7 @@ import Blue from './components/Blue.jsx';
 import Red from './components/Red.jsx';
 import Home from './components/Home.jsx';
 
+
 function App() 
 {
   return(
@@ -19,8 +20,8 @@ function App()
       </div>
       <div id="main-section">
         <Routes>
-          <Route path="/blue" element={<h1>Blue</h1>} />
-          <Route path="/red" element={<h1>Red</h1>} />
+          <Route path="/blue" element={<Blue />} />
+          <Route path="/red" element={<Red />} />
           <Route path="/" element={<Home />} />
         </Routes>
       </div>

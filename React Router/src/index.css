@@ -1,5 +1,6 @@
 *
-{ font-family: arial, sans-serif;
+{ 
+  font-family: arial, sans-serif;
   margin: 0;
 }
 
@@ -51,4 +52,8 @@ body > div
 {
   background-color: #275db3;
   color: white;
+}
+.home 
+{
+  background-color: lime;
 }
