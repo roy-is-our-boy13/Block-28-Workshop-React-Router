@@ -55,5 +55,15 @@ body > div
 }
 .home 
 {
-  background-color: lime;
+  background-color: silver;
+}
+.green 
+{
+  background-color: #4caf50;
+  color: white;
+}
+.purple 
+{
+  background-color: #7a16c7;
+  color: white;
 }
