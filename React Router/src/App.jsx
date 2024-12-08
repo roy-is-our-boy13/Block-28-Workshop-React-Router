@@ -8,8 +8,6 @@ import Red from './components/Red.jsx';
 import Green from './components/Green.jsx';  
 import Purple from './components/Purple.jsx'; 
 import Home from './components/Home.jsx';
-import Navbar from './Navbar.jsx';
-import MainContainer from './MainContainer.jsx';
 
 function App() 
 {
